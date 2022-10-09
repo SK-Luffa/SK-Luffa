@@ -1,6 +1,6 @@
 - hello. I’m DZX.  👋
 - 我是一名前端开发者 👀
--来自古老的城市 长安  ⛰️
+- 来自古老的城市 长安  ⛰️
 
 
 - 💞️ I’m looking to collaborate on ...
