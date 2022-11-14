@@ -9,10 +9,11 @@
 ##### 前端学习时间：
    * 2021.3-至今   
 ##### 日常工作：
-    * 主要以Vue+Element UI为主
+     主要以Vue+Element UI为主
 ##### 目前正在学习 react 争取本月底可以开始 TS 👀
    
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SK-Luffa&theme=dark)](https://github.com/anuraghazra/github-readme-stats).
 
+ 
