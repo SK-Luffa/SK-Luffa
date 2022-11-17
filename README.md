@@ -19,10 +19,10 @@
 ### 日常工作：
      主要以Vue+Element UI为主
 
-![](https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=SK-Luffa&props.theme=dracula&props.hideIcon=true&props.legendSize=14)
 
 
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SK-Luffa&repo=note&theme=dracula&show_icons=true&line_height=20&card_width=400px)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SK-Luffa&repo=note&theme=dracula&show_icons=true&line_height=20&card_width=400px)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SK-Luffa&theme=dark&layout=compact&card_width=350px)](https://github.com/anuraghazra/github-readme-stats)
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SK-Luffa&theme=dark&show_icons=true&line_height=20&card_width=400px)](https://github.com/anuraghazra/github-readme-stats).
