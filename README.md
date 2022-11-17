@@ -18,9 +18,7 @@
    * 2021.3-至今   
 ### 日常工作：
      主要以Vue+Element UI为主
-![](https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=SK-Luffa)
-![](https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=SK-Luffa&props.theme=dark)
-![](https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=SK-Luffa&props.theme=dark&props.hideIcon=true&props.legendSize=14)
+
 ![](https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=SK-Luffa&props.theme=dark&props.hideIcon=true&props.legendSize=1&props.count=12&props.columns=6)
 
 
