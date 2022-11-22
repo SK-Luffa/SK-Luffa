@@ -6,6 +6,11 @@
  -  ✈️FPV爱好者 
  -  🥤百事无糖(树莓)忠实粉丝  
  -  ⛰️ 风景爱好者(独自)
+### 联系我： 
+ - We Chart: Sk-LUFFA
+ - QQ:2284891522
+ - Email:sk8sigua@aliyun.com
+
 
  [![OSCS Status](https://www.oscs1024.com/platform/badge/SK-Luffa/note.svg?size=small)](https://www.oscs1024.com/project/SK-Luffa/note?ref=badge_small)
  ### 目前正在学习 react 争取本月底可以开始 TS 👀
