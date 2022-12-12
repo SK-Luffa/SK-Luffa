@@ -9,7 +9,7 @@
  - Email：sk8sigua@aliyun.com
 
  [![OSCS Status](https://www.oscs1024.com/platform/badge/SK-Luffa/note.svg?size=small)](https://www.oscs1024.com/project/SK-Luffa/note?ref=badge_small)
- ### 目前正在学习 VUE3 争取周四可以开始 TS 👀
+
  
  
 ### 工作经历：
@@ -17,11 +17,6 @@
    * 2021.12-至今：上海艺栢品牌管理有限公司
 ### 前端学习时间：
    * 2021.3-至今   
-### 日常工作：
-     主要以Vue+Element UI为主
-
-
-
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SK-Luffa&repo=note&theme=dracula&show_icons=true&line_height=20&card_width=400px)](https://github.com/anuraghazra/github-readme-stats)
 
