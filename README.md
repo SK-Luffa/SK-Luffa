@@ -18,7 +18,6 @@
 ### 前端学习时间：
    * 2021.3-至今   
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SK-Luffa&show_icons=true&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SK-Luffa&show_icons=true&theme=transparent)
 
 
