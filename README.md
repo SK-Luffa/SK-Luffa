@@ -18,7 +18,7 @@
 ### 前端学习时间：
    * 2021.3-至今   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SK-Luffa&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SK-Luffa&show_icons=true&theme=transparent)
 
