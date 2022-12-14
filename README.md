@@ -17,8 +17,8 @@
    * 2021.12-至今：上海艺栢品牌管理有限公司
 ### 前端学习时间：
    * 2021.3-至今   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SK-Luffa&show_icons=true&theme=transparent&locale=cn&hide_border=true&show_owner=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SK-Luffa&layout=compact&show_icons=true&theme=transparent&locale=cn&hide_border=true&show_owner=true&card_width=250)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SK-Luffa&show_icons=true&locale=cn&hide_border=true&show_owner=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SK-Luffa&layout=compact&show_icons=true&&theme=radical&locale=cn&hide_border=true&show_owner=true&card_width=250)
 
 
 
