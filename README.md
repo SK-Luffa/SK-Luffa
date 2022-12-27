@@ -1,5 +1,5 @@
 ## hello. I’m DZX.  👋
- - 居住在上海
+ - 现居上海
  - 日常更新note
  - <a href="https://juejin.cn/user/3430935659022216">掘金·大闸蟹_DZX</a>
 ### 联系我： 
