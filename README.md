@@ -17,8 +17,8 @@
    * 2021.3-至今   
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SK-Luffa&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api??username=SK-Luffa&layout=compact&show_icons=true&&theme=radical&locale=cn&hide_border=true&show_owner=true&card_width=250)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SK-Luffa&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
 
 
 
