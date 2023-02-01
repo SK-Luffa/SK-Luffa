@@ -1,7 +1,7 @@
 ## hello. I’m DZX.  👋
  - 现居上海
  - 日常更新note
- - <a href="https://juejin.cn/user/3430935659022216">掘金·大闸蟹_DZX</a>
+ - <a href="https://juejin.cn/user/3430935659022216">掘金·DZX_大闸蟹</a>
 ### 联系我： 
  - QQ：2284891522
  - Email：sk8sigua@aliyun.com
