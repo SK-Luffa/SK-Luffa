@@ -33,12 +33,6 @@
 #### 开发工具
 <code><img height="20" src="./img/Vscode.png" title="Html" /></code>
 <code><img height="20" src="./img/Webstorm.png" title="Html" /></code>
-
-
- 
-### 工作经历：
-   * 2021.1-2021.10：上海加谷网络科技有限公司（实习）
-   * 2021.12-至今：上海艺栢品牌管理有限公司
   
 
 
