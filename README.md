@@ -3,13 +3,13 @@
 #### 你好，我是luffa，喜欢帮助他人并热爱这个世界的前端开发者
  - 现居上海
  - <a href="https://juejin.cn/user/3430935659022216">掘金 ： DZX_大闸蟹</a>
- -  <a><img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=SK-Luffa&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
+ -  <a><img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=SK-Luffa&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" /></a>
 ### 联系我： 
  - WeChart：SK-LUFFA
  - Email：sk8sigua@gmail.com
 
 <a>
-<img align="right" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SK-Luffa&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&border_color=ccc" />
+<img align="right" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SK-Luffa&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" />
 </a>
  
 ### 工作经历：
