@@ -19,6 +19,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SK-Luffa&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SK-Luffa&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
