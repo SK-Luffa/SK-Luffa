@@ -9,7 +9,7 @@
  - Email：sk8sigua@gmail.com
 
 <a>
-<img align="right" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SK-Luffa&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<img align="right" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SK-Luffa&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&border_color=ccc" />
 </a>
  
 ### 工作经历：
