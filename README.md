@@ -1,25 +1,25 @@
-## hello. I’m DZX.  👋
+## hello. I’m | DZX |大闸蟹 ｜luffa ｜sigua  👋
+
+#### 你好，我是luffa，喜欢帮助他人并热爱这个世界的前端开发者
  - 现居上海
- - 日常更新note
- - <a href="https://juejin.cn/user/3430935659022216">掘金·DZX_大闸蟹</a>
+ - <a href="https://juejin.cn/user/3430935659022216">掘金 ： DZX_大闸蟹</a>
+ -  <a><img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=SK-Luffa&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
 ### 联系我： 
- - QQ：2284891522
- - Email：sk8sigua@aliyun.com
+ - WeChart：SK-LUFFA
+ - Email：sk8sigua@gmail.com
 
- [![OSCS Status](https://www.oscs1024.com/platform/badge/SK-Luffa/note.svg?size=small)](https://www.oscs1024.com/project/SK-Luffa/note?ref=badge_small)
-
- 
+<a>
+<img align="right" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SK-Luffa&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
  
 ### 工作经历：
    * 2021.1-2021.10：上海加谷网络科技有限公司（实习）
    * 2021.12-至今：上海艺栢品牌管理有限公司
-### 前端学习时间：
-   * 2021.3-至今   
+  
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SK-Luffa&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SK-Luffa&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
