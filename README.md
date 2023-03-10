@@ -7,7 +7,7 @@
 <img align="right" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SK-Luffa&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" />
 
 ### 联系我： 
- - WeChart：SK-LUFFA
+ - WeChat：SK-LUFFA
  - Email：sk8sigua@gmail.com
   <a>
 
