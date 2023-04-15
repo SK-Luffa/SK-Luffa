@@ -34,6 +34,6 @@
 <code><img height="20" src="./img/Webstorm.png" title="Html" /></code>
 
 
-[![Star History Chart](https://api.star-history.com/svg?repos=star-history/star-history&type=Date)](https://star-history.com/#star-history/star-history&Date)
+
   
 
