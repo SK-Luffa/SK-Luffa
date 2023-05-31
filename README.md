@@ -1,6 +1,6 @@
 ### hello. I’m 邓子需｜大闸蟹  👋
 
-#### 你好，我是luffa，喜欢帮助他人并热爱这个世界的前端开发者
+#### 你好，请叫我大专哥
   - 现居上海
  <a><img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=SK-Luffa&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" /></a>
   - <a href="https://juejin.cn/user/3430935659022216">掘金 ： DZX_大闸蟹</a>
