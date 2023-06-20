@@ -1,5 +1,7 @@
 ### hello. I’m 邓子需｜大闸蟹  👋
 
+# A true warrior dares to face the bleak life directly
+
 #### 你好，请叫我大专哥
   - 现居上海
  <a><img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=SK-Luffa&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" /></a>
