@@ -1,11 +1,11 @@
-### hello. I’m 邓子需｜大闸蟹  👋
+### hello. I’m 大专哥
 
 # A true warrior dares to face the bleak life directly
 
 #### 你好，请叫我大专哥
   - 现居上海
  <a><img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=SK-Luffa&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" /></a>
-  - <a href="https://juejin.cn/user/3430935659022216">掘金 ： DZX_大闸蟹</a>
+  - <a href="https://juejin.cn/user/3430935659022216">掘金 ： 大专哥</a>
 <img align="right" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SK-Luffa&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" />
 
 ### 联系我： 
