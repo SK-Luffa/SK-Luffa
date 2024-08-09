@@ -7,7 +7,7 @@
   - Home University  在读 🤪
  <a><img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=SK-Luffa&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" /></a>
   - <a href="https://juejin.cn/user/3430935659022216">掘金 ： 大专哥</a>
-<img align="right" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SK-Luffa&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" />
+//<img align="right" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SK-Luffa&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" />
 
 ### 联系我： 
  - WeChat：Mr-luffa
