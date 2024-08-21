@@ -2,16 +2,17 @@
 
 # A true warrior dares to face the bleak life directly
 
-#### 你好，请叫我大专哥
+#### 你好，我是大专哥
   - 现居浙江杭州
   - Home University  在读 🤪
- <a><img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=SK-Luffa&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" /></a>
+
   - <a href="https://juejin.cn/user/3430935659022216">掘金 ： 大专哥</a>
+   <a><img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=SK-Luffa&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" /></a>
 
 
 ### 联系我： 
  - WeChat：Mr-luffa
- - qq：2284891522
+ - mail：sk8sigua@gmail.com
 ### 经历
 - 上海加谷网络科技有限公司 21.01 - 21.10 (实习)
 - 上海艺栢品牌管理有限公司 21.12 - 23.10
