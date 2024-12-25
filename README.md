@@ -3,7 +3,7 @@
 # A true warrior dares to face the bleak life directly
 
 #### 你好，我是大专哥
-  - 现居浙江杭州
+  - 目前在远程工作，暂居杭州
   - Home University  在读 🤪
 
   - <a href="https://juejin.cn/user/3430935659022216">掘金 ： 大专哥</a>
@@ -17,6 +17,7 @@
 - 上海加谷网络科技有限公司 21.01 - 21.10 (实习)
 - 上海艺栢品牌管理有限公司 21.12 - 23.10
 - 杭州心途文化科技有限公司 23.12 - 24.10
+- NC技术团队（remote）   24.12 - 至今
 
 #### 前端技术
 <code><img height="20" src="./img/Html.png" title="Html" /></code>
