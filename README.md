@@ -1,8 +1,8 @@
-### hello. I’m 大专哥
+### hello. I’m 大专哥/乌友
 
 # A true warrior dares to face the bleak life directly
 
-#### 你好，我是大专哥
+#### 你好，我是大专哥/乌友
   - 目前努力找工作中...
   - Home University  在读 🤪
 
