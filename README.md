@@ -15,10 +15,7 @@
 ### 联系我： 
  - WeChat：Mr-luffa
  - mail：sk8sigua@gmail.com
-### 经历
-- 上海艺栢品牌管理有限公司 21.12 - 23.10
-- 杭州心途文化科技有限公司 23.12 - 24.10
-- 杭州群创科技有限公司   25.5 - 25-12
+
 
 #### 前端技术
 <code><img height="20" src="./img/Html.png" title="Html" /></code>
